@@ -18,7 +18,10 @@ if __name__ == "__main__":
     priority_dict = {
         "H": 1,
         "S": 2,
-        "default": 3
+        "M": 3,
+        "E": 4,
+        "P": 5,
+        "default": 6
     }
 
     data = sorted(data, key=sortKey)
@@ -42,7 +45,7 @@ if __name__ == "__main__":
         </head>
         <body>
             <div class="container text-center">
-                <div class="row row-cols-4">
+                <div class="row">
                 {cards}
                 </div>
             </div>
