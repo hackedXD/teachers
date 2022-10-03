@@ -1,5 +1,35 @@
 [
 	{
+		"email": "tnelson@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "I310"
+	},
+	{
+		"email": "eyeh@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "I309"
+	},
+	{
+		"email": "stli@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "I208"
+	},
+	{
+		"email": "cgold@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "I304"
+	},
+	{
+		"email": "jbergherm@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "H304"
+	},
+	{
+		"email": "clhchan@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "I212"
+	},
+	{
 		"email": "ssmith@sas.edu.sg",
 		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu-sxbkYltWmu2adwagGfJqFNkDrqSq8gTYTMePE1Q=s200",
 		"room": "I216"
@@ -56,7 +86,13 @@
 	},
 	{
 		"email": "spang@sas.edu.sg",
-		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu8EdFiz85Jg37Frj_NhYrUA25L_VNAJ-U2x-YMf=s200"
+		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu8EdFiz85Jg37Frj_NhYrUA25L_VNAJ-U2x-YMf=s200",
+		"room": "N/A"
+	},
+	{
+		"email": "bcallaghan@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "H307A"
 	},
 	{
 		"email": "ipage@sas.edu.sg",
@@ -175,7 +211,8 @@
 	},
 	{
 		"email": "jward@sas.edu.sg",
-		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu_PMbxDLe6wzowoe1cJ-QbZE3p6v8HWuSODAXVh=s200"
+		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu_PMbxDLe6wzowoe1cJ-QbZE3p6v8HWuSODAXVh=s200",
+		"room": "N/A"
 	},
 	{
 		"email": "mwilliams@sas.edu.sg",
@@ -183,9 +220,29 @@
 		"room": "H214/H105R"
 	},
 	{
+		"email": "atomassen@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "S132"
+	},
+	{
+		"email": "sgoerne@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "P310"
+	},
+	{
+		"email": "xdu@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "M305"
+	},
+	{
 		"email": "rgray@sas.edu.sg",
 		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu87enB5v4F9Ftg8TZs_KWCT1c09aKsyuXJaDBeIrZI=s200",
 		"room": "P217"
+	},
+	{
+		"email": "bkirkwood@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "H100D"
 	},
 	{
 		"email": "tblair@sas.edu.sg",
@@ -203,8 +260,39 @@
 		"room": "P304"
 	},
 	{
+		"email": "japplewhite@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "H306"
+	},
+	{
+		"email": "pmoineau@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "H417"
+	},
+	{
+		"email": "mkish@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "i303"
+	},
+	{
+		"email": "ryu@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "E101/E102"
+	},
+	{
+		"email": "cmarcea@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "H425"
+	},
+	{
 		"email": "cshriner-ext@sas.edu.sg",
-		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu8WovFuBcfnOvgbLYW9cYmddEmZ8QKgO4nz28bjDg=s200"
+		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu8WovFuBcfnOvgbLYW9cYmddEmZ8QKgO4nz28bjDg=s200",
+		"room": "N/A"
+	},
+	{
+		"email": "smorganionescu@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "H423"
 	},
 	{
 		"email": "baguilarrodriguez@sas.edu.sg",
@@ -407,6 +495,11 @@
 		"room": "H204"
 	},
 	{
+		"email": "tpatten@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "N/A"
+	},
+	{
 		"email": "jritzer@sas.edu.sg",
 		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu-iFOW4ndpXqJGMfPY3gcebr3GD26qEfbrmVqse=s200",
 		"room": "H318"
@@ -442,6 +535,11 @@
 		"room": "H409"
 	},
 	{
+		"email": "bneri@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "H323"
+	},
+	{
 		"email": "dliu@sas.edu.sg",
 		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu-lK7Uz49goCj1XIaRtKnh2NGJ5KQ2T89VULnrDHw=s200",
 		"room": "P300C"
@@ -462,14 +560,69 @@
 		"room": "H424"
 	},
 	{
+		"email": "jmcevoyhein@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "H312"
+	},
+	{
 		"email": "awenstrom@sas.edu.sg",
 		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu82OCC5qhZtwFcBsEsByAeNDpuQOBwvnZ-7uznvmA=s200",
 		"room": "C212J"
 	},
 	{
+		"email": "chnam@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "i307D"
+	},
+	{
+		"email": "mburke@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "I217"
+	},
+	{
+		"email": "bgambell@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "H307B/H307C"
+	},
+	{
+		"email": "sxia@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "M307"
+	},
+	{
+		"email": "jreed@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "P211"
+	},
+	{
+		"email": "sbarber@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "P312"
+	},
+	{
+		"email": "awalters@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "P226"
+	},
+	{
+		"email": "lpepple@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "C203"
+	},
+	{
 		"email": "tmacdonell@sas.edu.sg",
 		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu8FCRFZzFYFO7EWLsG-8bxMTEiQ9PeZs4Ve5CEB=s200",
 		"room": "i203"
+	},
+	{
+		"email": "jhsieh@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "H401"
+	},
+	{
+		"email": "cglenz@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "H104"
 	},
 	{
 		"email": "sfrasier@sas.edu.sg",
@@ -643,11 +796,18 @@
 	},
 	{
 		"email": "ekrause@sas.edu.sg",
-		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu9RVM25YbDiSVXb0rzIJtxXALhC_P0g9Zl1b8wK=s200"
+		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu9RVM25YbDiSVXb0rzIJtxXALhC_P0g9Zl1b8wK=s200",
+		"room": "N/A"
+	},
+	{
+		"email": "cashaw@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "E104/E105(Hub3)"
 	},
 	{
 		"email": "jgolenberg@sas.edu.sg",
-		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu9EzzyvRjkouT3V-LZ4qk1LHFeSIKOJ7ntqZOQc=s200"
+		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu9EzzyvRjkouT3V-LZ4qk1LHFeSIKOJ7ntqZOQc=s200",
+		"room": "N/A"
 	},
 	{
 		"email": "gstrydhorstpiers@sas.edu.sg",
@@ -680,6 +840,11 @@
 		"room": "S124"
 	},
 	{
+		"email": "svega@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "I121"
+	},
+	{
 		"email": "mramirezrivas@sas.edu.sg",
 		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu_jNCR3IHTxitkZrw5u_NTZJTcQwvcvJ5hc7LoI=s200",
 		"room": "I215"
@@ -695,9 +860,49 @@
 		"room": "H205P"
 	},
 	{
+		"email": "dzhang@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "I309"
+	},
+	{
 		"email": "glait@sas.edu.sg",
 		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu9UHbjcTKoLfuOx6qbdnLBU08cwi2ORcSd5EhdZ=s200",
 		"room": "P209"
+	},
+	{
+		"email": "tsouth@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "N/A"
+	},
+	{
+		"email": "shuddleston@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "M219B"
+	},
+	{
+		"email": "lhawkins@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "N/A"
+	},
+	{
+		"email": "kstrever@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "M107"
+	},
+	{
+		"email": "dyang@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "E106/E107"
+	},
+	{
+		"email": "jhein@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "M217"
+	},
+	{
+		"email": "tgowan@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "H401"
 	},
 	{
 		"email": "khansen@sas.edu.sg",
@@ -751,7 +956,8 @@
 	},
 	{
 		"email": "jlawrence@sas.edu.sg",
-		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu-lx6Efl2xMLFg0A3uw-faSYa1DEvt6zuAuHGTU2w=s200"
+		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu-lx6Efl2xMLFg0A3uw-faSYa1DEvt6zuAuHGTU2w=s200",
+		"room": "N/A"
 	},
 	{
 		"email": "rbrown@sas.edu.sg",
@@ -880,7 +1086,8 @@
 	},
 	{
 		"email": "kharrison@sas.edu.sg",
-		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu8upaHaOSKmKVZJdl9BMMwRQtHCZVJGflsEylrNHg=s200"
+		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu8upaHaOSKmKVZJdl9BMMwRQtHCZVJGflsEylrNHg=s200",
+		"room": "N/A"
 	},
 	{
 		"email": "esutton@sas.edu.sg",
@@ -921,6 +1128,11 @@
 		"email": "mgonzalez@sas.edu.sg",
 		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu9vVm3paPKqksmF-E6rnixG9_zhefLkGkBxfeRB=s200",
 		"room": "P200E"
+	},
+	{
+		"email": "nali@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "P212"
 	},
 	{
 		"email": "asalasvillagran@sas.edu.sg",
@@ -968,6 +1180,11 @@
 		"room": "I200F"
 	},
 	{
+		"email": "ttwu@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "E106/E107"
+	},
+	{
 		"email": "lfulcher@sas.edu.sg",
 		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu9WLGL5VppjD4dcfsvsmBAMkkWPcUbbbG_rKeeWDhI=s200",
 		"room": "S106"
@@ -976,6 +1193,11 @@
 		"email": "pbooth@sas.edu.sg",
 		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu8eiM8XtefxfS0EoSqEOaN17wT3AtecX-hYWw4G=s200",
 		"room": "H105R/S118"
+	},
+	{
+		"email": "kgoldhammer@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "P214"
 	},
 	{
 		"email": "vcolorado@sas.edu.sg",
@@ -1003,9 +1225,19 @@
 		"room": "i204"
 	},
 	{
+		"email": "byan@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "N/A"
+	},
+	{
 		"email": "kferrell@sas.edu.sg",
 		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu8jiquemoTrVuhyU3f8baeNn6mMm1tL-gy-JLCruL4=s200",
 		"room": "P319"
+	},
+	{
+		"email": "cpeterson@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "M110"
 	},
 	{
 		"email": "mdelrosario@sas.edu.sg",
@@ -1013,9 +1245,19 @@
 		"room": "P107"
 	},
 	{
+		"email": "brigganderson@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "I104"
+	},
+	{
 		"email": "kmcmullen@sas.edu.sg",
 		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu_paw3GfevIAroFaYCD4D6p1VJEDt0cnv6O87n28w=s200",
 		"room": "M200"
+	},
+	{
+		"email": "kmcewen@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "E109"
 	},
 	{
 		"email": "dknuffke@sas.edu.sg",
@@ -1023,13 +1265,34 @@
 		"room": "H101"
 	},
 	{
+		"email": "kwright@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "M200"
+	},
+	{
+		"email": "lhaugen@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "M316"
+	},
+	{
 		"email": "rhou@sas.edu.sg",
 		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu8PaUMdSclT1jYId_aIXR2j96puMr5MdzfFeCwmDA=s200",
 		"room": "I307C"
 	},
 	{
+		"email": "swei@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "P300D"
+	},
+	{
+		"email": "eflanagan@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "H404"
+	},
+	{
 		"email": "kmcdowell@sas.edu.sg",
-		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu8xfxJPxJW6cVpHWzHqkjkjf7aUmU9DDugneAzxTw=s200"
+		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu8xfxJPxJW6cVpHWzHqkjkjf7aUmU9DDugneAzxTw=s200",
+		"room": "N/A"
 	},
 	{
 		"email": "aarnatovich@sas.edu.sg",
@@ -1063,7 +1326,8 @@
 	},
 	{
 		"email": "ssun@sas.edu.sg",
-		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu8DBAYsRcpVhHp3_gzN9HdFL2yZAgAAjomr9vhVSA=s200"
+		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu8DBAYsRcpVhHp3_gzN9HdFL2yZAgAAjomr9vhVSA=s200",
+		"room": "N/A"
 	},
 	{
 		"email": "kharvey@sas.edu.sg",
@@ -1112,11 +1376,13 @@
 	},
 	{
 		"email": "ttian@sas.edu.sg",
-		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu-n9bTZn5hpxdZUNMJnQYb6f_R3uvZ-jVxCrShu=s200"
+		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu-n9bTZn5hpxdZUNMJnQYb6f_R3uvZ-jVxCrShu=s200",
+		"room": "N/A"
 	},
 	{
 		"email": "fwilliams@sas.edu.sg",
-		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu96wE3li_uthEfcv5H2gxRIXKp1cJxQ0bMBJO2H=s200"
+		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu96wE3li_uthEfcv5H2gxRIXKp1cJxQ0bMBJO2H=s200",
+		"room": "N/A"
 	},
 	{
 		"email": "hhuang@sas.edu.sg",
@@ -1185,7 +1451,8 @@
 	},
 	{
 		"email": "epoppe@sas.edu.sg",
-		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu_y-qn6_ts_ww-GZj-CxS-723BgNcdbAN5B908b=s200"
+		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu_y-qn6_ts_ww-GZj-CxS-723BgNcdbAN5B908b=s200",
+		"room": "N/A"
 	},
 	{
 		"email": "awhite@sas.edu.sg",
@@ -1213,9 +1480,29 @@
 		"room": "i102"
 	},
 	{
+		"email": "jjordon@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "I310"
+	},
+	{
+		"email": "sraman@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "I100"
+	},
+	{
 		"email": "scraig@sas.edu.sg",
 		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu9gCM8wNMl8yPCTdVTcxhe3O7nmin9QV5CQK961Mw=s200",
 		"room": "H212"
+	},
+	{
+		"email": "lcameron@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "M324"
+	},
+	{
+		"email": "daschuster@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "C212J"
 	},
 	{
 		"email": "greynen@sas.edu.sg",
@@ -1233,14 +1520,59 @@
 		"room": "I108"
 	},
 	{
+		"email": "bstrever@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "M219A"
+	},
+	{
+		"email": "jhutchinson@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "I107"
+	},
+	{
+		"email": "magnes@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "H101"
+	},
+	{
+		"email": "ecaskey@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "C102"
+	},
+	{
+		"email": "cdemetre@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "I300"
+	},
+	{
 		"email": "tmassey@sas.edu.sg",
 		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu9-li68kIu10V6WnbJ1qFUEPKluVgHx-frBywEM=s200",
 		"room": "H400"
 	},
 	{
+		"email": "jylee@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "H210"
+	},
+	{
+		"email": "cmontgomery@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "M205"
+	},
+	{
 		"email": "nbagley@sas.edu.sg",
 		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu9lA7-agWzecN6mu5gKtOtSSgS4vj2o9sJEbjQEfw=s200",
 		"room": "P313"
+	},
+	{
+		"email": "esparrow@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "S132"
+	},
+	{
+		"email": "lschutzler@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "M308"
 	},
 	{
 		"email": "aangle@sas.edu.sg",
@@ -1373,6 +1705,11 @@
 		"room": "I306"
 	},
 	{
+		"email": "ema@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "E115"
+	},
+	{
 		"email": "alee@sas.edu.sg",
 		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu-302nlk4DF8oGhS0Im0Cw-5nagQSX8xUb67s9m=s200",
 		"room": "i106"
@@ -1403,6 +1740,11 @@
 		"room": "I103"
 	},
 	{
+		"email": "dkay@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "H422"
+	},
+	{
 		"email": "smccue@sas.edu.sg",
 		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu9hy3MLEk07ubGUUa2susPyPJvtcVcpTpMFc1qb=s200",
 		"room": "M317"
@@ -1428,6 +1770,11 @@
 		"room": "I118"
 	},
 	{
+		"email": "kbormann@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "H311"
+	},
+	{
 		"email": "upong@sas.edu.sg",
 		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu960CrsK9F1C0MKYd388O_QG4ExX2BZMp9V_E4qMi0=s200",
 		"room": "S201"
@@ -1446,6 +1793,11 @@
 		"email": "dcruz@sas.edu.sg",
 		"photo": "https://lh3.googleusercontent.com/a-/ACNPEu8MWmFFYUINdFIsHXqFhv4cJqWgyj_NSNeNCdGkTg=s200",
 		"room": "S210"
+	},
+	{
+		"email": "dyowell@sas.edu.sg",
+		"photo": "https://lh3.googleusercontent.com/a-/AOh14Gj-cdUSUVoEge7rD5a063tQkyTDT3mripEuDZ0v=s200",
+		"room": "P305"
 	},
 	{
 		"email": "agwood@sas.edu.sg",
